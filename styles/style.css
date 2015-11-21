@@ -1,3 +1,15 @@
+/*Entire page styles*/
 body {
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-color: darkkhaki;
+}
+
+/*All link styles*/
+a {
+	color: steelblue;
+	text-decoration: none;
+}
+/*All paragraph styles*/
+p { 
+	color: darkslategray;
 }
